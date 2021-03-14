@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.chess-timer {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+.container {
+  width: 90%;
+}
